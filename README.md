@@ -1,2 +1,2 @@
 # robotarm
-developing a four DoF robotic arm
+personal group project: developing a four DoF robotic arm
